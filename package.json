@@ -1,5 +1,5 @@
 {
-  "name": "is-null-or-undefined",
+  "name": "@ravichandrar/is-null-or-undefined",
   "version": "1.0.0",
   "description": "To check if arguments are null or undefined",
   "main": "index.js",
