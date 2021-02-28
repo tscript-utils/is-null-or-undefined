@@ -19,6 +19,10 @@
   "keywords": [
     "typescript"
   ],
-  "author": "ravulapr",
+  "author": {
+    "name": "RAVI CHANDRA RAVULAPATI",
+    "email": "ravichandra480@gmail.com",
+    "url": "https://github.com/ravichandra480"
+  },
   "license": "MIT"
 }
