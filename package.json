@@ -1,5 +1,5 @@
 {
-  "name": "@ravichandrar/is-null-or-undefined",
+  "name": "@tscript-utils/is-null-or-undefined",
   "version": "1.0.1",
   "description": "To check if arguments are null or undefined",
   "main": "index.js",
@@ -22,7 +22,7 @@
   "author": {
     "name": "RAVI CHANDRA RAVULAPATI",
     "email": "ravichandra480@gmail.com",
-    "url": "https://github.com/ravichandra480"
+    "url": "https://github.com/tscript-utils"
   },
   "license": "MIT"
 }

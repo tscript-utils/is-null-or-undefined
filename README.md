@@ -1,14 +1,14 @@
-# [@ravichandrar/is-null-or-undefined](https://www.npmjs.com/package/@ravichandrar/is-null-or-undefined)
+# [@tscript-utils/is-null-or-undefined](https://www.npmjs.com/package/@ravichandrar/is-null-or-undefined)
 
 NPM package to find if the argument is null or undefined
 
 
 ## Install
-```npm i --save @ravichandrar/is-null-or-undefined```
+```npm i --save @tscript-utils/is-null-or-undefined```
 
 ## Import
 ```
-import {isNullOrUndefined} from "@ravichandrar/is-null-or-undefined";
+import {isNullOrUndefined} from "@tscript-utils/is-null-or-undefined";
 ```
 
 ## Usage
